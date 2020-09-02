@@ -1,0 +1,3 @@
+First Step you should go to api folder and listen this db.json file
+    "json-server --watch db.json"
+and go to back main project file then you can start npm.
